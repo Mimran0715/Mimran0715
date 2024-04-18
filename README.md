@@ -6,4 +6,4 @@
 
 <p>I do my best to stay up to date with emerging technologies like Generative AI and LLMs.</p>
 
-<p>Feel free to check out some of the projects I have completed.</p> 
+<p>Feel free to check out some of the projects I'm working on.</p> 
