@@ -1,8 +1,4 @@
-### Hello!
+<p>Hello! My name is Maleeha, and I'm a current grad CS student @ Georgia Tech. Prev: B.S in Computer Science from UC Irvine. My current interests mainly lie in machine learning, NLP, and LLMs.</p>
 
-<p>Maleeha Imran</p>
-<p>Grad CS student @ Georgia Tech</p>
-<p>B.S in Computer Science from UC Irvine</p>
-<p>Interests: Machine Learning, Natural Language Processing, LLMs</p>
-<p>Skills:Python, C/C++, SQL, HTML, CSS, Javascript.</p>
+<p>Skills:Python, C/C++, SQL, HTML, CSS, Javascript, Django, PyTorch, Tensorflow. </p>
 
