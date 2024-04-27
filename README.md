@@ -2,7 +2,8 @@
 
 <p>Prev: B.S in Computer Science from UC Irvine.</p> 
 
-<p>My current interests mainly lie in machine learning, NLP, and LLMs.</p>
+<p>My interests mainly lie in machine learning, NLP, and LLMs.</p>
 
 <p>Skills: Python, C/C++, SQL, HTML, CSS, Javascript, Django, PyTorch, Tensorflow. </p>
 
+<p>Currently trying to learn: Langchain, Fine-tuning LLMs</p>
