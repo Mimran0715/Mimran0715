@@ -4,5 +4,5 @@
 
 <p>My current interests mainly lie in machine learning, NLP, and LLMs.</p>
 
-<p>Skills:Python, C/C++, SQL, HTML, CSS, Javascript, Django, PyTorch, Tensorflow. </p>
+<p>Skills: Python, C/C++, SQL, HTML, CSS, Javascript, Django, PyTorch, Tensorflow. </p>
 
