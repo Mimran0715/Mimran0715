@@ -1,4 +1,4 @@
-<p>Hello! My name is Maleeha, and I'm a current grad CS student @ Georgia Tech </p>
+<p>Hello! My name is Maleeha. M.S in CS from Georgia Tech. </p>
 
 <p>Prev: B.S in Computer Science from UC Irvine.</p> 
 
