@@ -6,4 +6,4 @@
 
 <p>Skills: Python, C/C++, SQL, HTML, CSS, Javascript, Django, PyTorch, Tensorflow. </p>
 
-<p>Currently trying to learn: Langchain, Fine-tuning LLMs</p>
+
