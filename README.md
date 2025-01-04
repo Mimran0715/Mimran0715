@@ -7,4 +7,4 @@
 <p> :computer: My interests mainly lie in machine learning and AI. </p>
 
 
-[![Maleeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimran0715)](https://github.com/Mimran0715/github-readme-stats)
+[![Maleeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimran0715)](https://github.com/Mimran0715/github-readme-stats&show_icons=true&theme=tokyonight)
