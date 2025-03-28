@@ -1,6 +1,6 @@
-<p> Hello! My name is Maleeha. </p>
+<p> Hello. </p>
 
-<p> :books: I'm currently finishing my Master's program in Computer Science from Georgia Tech. </p>
+<p> :books: Currently @ GaTech OMSCS </p>
 
 <p> :mortar_board: Prev: B.S in Computer Science from UC Irvine.</p> 
 
