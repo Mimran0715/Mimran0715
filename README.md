@@ -1,4 +1,4 @@
-# 👩‍💻 Maleeha Imran
+# Maleeha Imran
 
 Full-Stack Engineer • AI Systems • ML
 
