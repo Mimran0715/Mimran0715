@@ -1,4 +1,3 @@
-## Maleeha Imran
 Full-Stack Engineer • AI • ML
 
 ### 🧭 About
