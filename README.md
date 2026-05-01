@@ -1,4 +1,4 @@
-Full-Stack Engineer • AI • ML
+Software Engineer •Full-stack • AI • ML 
 
 ### 🧭 About
 I am interested in building full-stack software systems with clean engineering, scalability, and practical AI integration, spanning backend systems, modern frontend development, and production-ready applications that turn ideas into real, usable products.
