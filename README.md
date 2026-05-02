@@ -1,7 +1,7 @@
 Software Engineer • Full-stack • AI • ML 
 
 ### 🧭 About
-I am interested in building full-stack software systems with clean engineering, scalability, and practical AI integration, spanning backend systems, modern frontend development, and production-ready applications that turn ideas into real, usable products.
+Interested in full-stack and general software engineering, with some experience across backend, frontend, and AI/ML. I enjoy building and learning by turning ideas into real projects.
 
 ### 🚀 Projects
 - **Medication Tracker** — Full-stack health app with Dockerized APIs, real-time features, and cloud deployment (GCP)
