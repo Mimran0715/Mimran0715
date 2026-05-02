@@ -10,4 +10,4 @@ Interested in full-stack and general software engineering, with some experience 
 - **Medical Imaging Study** — CNN analysis of shape vs texture bias in medical datasets
 
 ### 🧰 Stack
-TypeScript • Python • React • Next.js • 
+TypeScript • Python • React • Next.js
