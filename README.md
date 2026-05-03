@@ -1,6 +1,6 @@
 Software Engineer • Full-stack • AI • ML
 ### 🧭 About
-Interested in full-stack and general software engineering, with some experience across backend, frontend, and AI/ML. I enjoy building and learning by turning ideas into real projects.
+Interested in full-stack and general software engineering, with experience across backend, frontend, and AI/ML. I enjoy building and learning by turning ideas into real projects.
 ### 🎓 Education
 - **M.S. Computer Science** — Georgia Tech
 - **B.S. Computer Science** — UC Irvine
