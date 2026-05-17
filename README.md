@@ -11,3 +11,8 @@ Interested in full-stack and general software engineering, with experience acros
 - **Medical Imaging Study** — CNN analysis of shape vs texture bias in medical datasets
 ### 🧰 Stack
 TypeScript • Python • React • Next.js
+### ⚒️ In the Works
+- **Bitelog** — AI powered food journal.
+- **mini-voice-agent** - tiny voice agent.
+- **docs-mcp** - mcp server to connect with local docs.
+- building coding agent skills
