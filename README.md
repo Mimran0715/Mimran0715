@@ -5,6 +5,7 @@ Interested in full-stack and general software engineering, with experience acros
 - **M.S. Computer Science** — Georgia Tech
 - **B.S. Computer Science** — UC Irvine
 ### 🚀 Projects
+- **BookDeal** — Agentic Python CLI that uses TinyFish Search/Fetch to scan book retailers, extract listing signals, filter bad matches, and rank the cheapest trustworthy book or ebook deals.
 - **Smart Medication Tracker** — Full-stack health app with Dockerized APIs, real-time features, and cloud deployment (GCP)
 - **Drafts: AI Writing Companion** — Desktop app using LangChain for contextual writing feedback
 - **Memory QA Network** — PyTorch model for multi-hop reasoning (>70% accuracy)
