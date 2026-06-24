@@ -12,6 +12,7 @@ Interested in full-stack and general software engineering, with experience acros
 - **Medical Imaging Study** — CNN analysis of shape vs texture bias in medical datasets
 ### 🧰 Stack
 TypeScript • Python • React • Next.js
+
 Hoping to add: Go, Rust
 
 ### ⚒️ In the Works
