@@ -17,4 +17,3 @@ Next: Go, Rust
 
 ### ⚒️ In the Works
 - **mini-voice-agent** - tiny voice agent.
-- building coding agent skills
