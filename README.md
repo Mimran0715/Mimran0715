@@ -16,7 +16,5 @@ TypeScript • Python • React • Next.js
 Next: Go, Rust
 
 ### ⚒️ In the Works
-- **Bitelog** — AI powered food journal.
 - **mini-voice-agent** - tiny voice agent.
-- **docs-mcp** - mcp server to connect with local docs.
 - building coding agent skills
