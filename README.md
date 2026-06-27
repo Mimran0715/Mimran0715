@@ -4,14 +4,15 @@ Interested in full-stack and general software engineering, with experience acros
 ### 🎓 Education
 - **M.S. Computer Science** — Georgia Tech
 - **B.S. Computer Science** — UC Irvine
-### 🚀 Projects
-- **Smart Medication Tracker** — Full-stack health app with Dockerized APIs, real-time features, and cloud deployment (GCP)
-- **Memory QA Network** — PyTorch model for multi-hop reasoning (>70% accuracy)
-- **Medical Imaging Study** — CNN analysis of shape vs texture bias in medical datasets
+
 ### 🧰 Stack
 TypeScript • Python • React • Next.js
-
 Next: Go, Rust
 
 ### ⚒️ In the Works
 - **mini-voice-agent** - tiny voice agent.
+
+### 🚀 Private Projects
+- **Smart Medication Tracker** — Full-stack health app with Dockerized APIs, real-time features, and cloud deployment (GCP)
+- **Memory QA Network** — PyTorch model for multi-hop reasoning (>70% accuracy)
+- **Medical Imaging Study** — CNN analysis of shape vs texture bias in medical datasets
