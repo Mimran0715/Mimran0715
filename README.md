@@ -7,6 +7,7 @@ Interested in full-stack and general software engineering, with experience acros
 
 ### 🧰 Stack
 TypeScript • Python • React • Next.js
+
 Next: Go, Rust
 
 ### ⚒️ In the Works
