@@ -10,9 +10,6 @@ TypeScript • Python • React • Next.js
 
 Next: Go, Rust
 
-### ⚒️ In the Works
-- **mini-voice-agent** - tiny voice agent.
-
 ### 🚀 Private Projects
 - **Smart Medication Tracker** — Full-stack health app with Dockerized APIs, real-time features, and cloud deployment (GCP)
 - **Memory QA Network** — PyTorch model for multi-hop reasoning (>70% accuracy)
