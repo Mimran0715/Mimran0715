@@ -6,9 +6,7 @@ Interested in full-stack and general software engineering, with experience acros
 - **B.S. Computer Science** — UC Irvine
 
 ### 🧰 Stack
-TypeScript • Python • React • Next.js
-
-Next: Go, Rust
+TypeScript • Python 
 
 ### 🚀 Private Projects
 - **Smart Medication Tracker** — Full-stack health app with Dockerized APIs, real-time features, and cloud deployment (GCP)
