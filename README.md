@@ -12,3 +12,4 @@ TypeScript • Python
 - **Smart Medication Tracker** — Full-stack health app with Dockerized APIs, real-time features, and cloud deployment (GCP)
 - **Memory QA Network** — PyTorch model for multi-hop reasoning (>70% accuracy)
 - **Medical Imaging Study** — CNN analysis of shape vs texture bias in medical datasets
+- **FlowRunner** - Mobile application to provide hand/eye free feedback on runs.
