@@ -1,15 +1,26 @@
-Software Engineer • Full-stack • AI • ML
-### 🧭 About
-Interested in full-stack and general software engineering, with experience across backend, frontend, and AI/ML. I enjoy building and learning by turning ideas into real projects.
-### 🎓 Education
-- **M.S. Computer Science** — Georgia Tech
-- **B.S. Computer Science** — UC Irvine
+**Software Engineer • Full-Stack Systems • AI Engineering**
 
-### 🧰 Stack
-TypeScript • Python 
+Building full-stack applications and AI-powered systems across web, mobile, and machine learning.
 
-### 🚀 Private Projects
-- **Smart Medication Tracker** — Full-stack health app with Dockerized APIs, real-time features, and cloud deployment (GCP)
-- **Memory QA Network** — PyTorch model for multi-hop reasoning (>70% accuracy)
-- **Medical Imaging Study** — CNN analysis of shape vs texture bias in medical datasets
-- **FlowRunner** - Mobile application to provide hand/eye free feedback on runs.
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+**💊 Smart Medication Tracker**  
+Full-stack healthcare application with Next.js, APIs, PostgreSQL, Docker, and cloud deployment.
+
+**✍️ Drafts — AI Writing Companion**  
+Desktop AI writing assistant using Electron, LLM workflows, and retrieval-based features.
+
+**🏃 FlowRunner**  
+Mobile running companion using smartphone sensors and adaptive haptic feedback.
+
+**🧠 Memory QA Network**  
+PyTorch model exploring multi-hop reasoning and neural question answering.
