@@ -1,5 +1,6 @@
 **Software Engineer • Full-Stack Systems • AI Engineering**
 
+Building full stack systems and AI powered applications across web, mobile, and machine learning.
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
