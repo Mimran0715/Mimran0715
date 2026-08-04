@@ -16,7 +16,7 @@ Building full stack applications and AI powered systems across web, mobile, and 
 **✍️ Drafts — AI Writing Companion**  
 Desktop AI writing assistant using Electron, LLM workflows, and retrieval-based features.
 
-**📚 BookDeal — Finding books at cheap prices **  
+**📚 BookDeal — Finding books at cheap prices**  
 CLI built with TinyFish to find books at cheapest price with optional Pydantic/Gemini agentic workfow Featured on TinyFish blog.
 
 **💊 Smart Medication Tracker**  
